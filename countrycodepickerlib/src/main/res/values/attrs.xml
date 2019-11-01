@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CountryCodePicker">
+        <!--{@deprecated Use defaultNameCode instead.}-->
+        <attr name="ccp_defaultPhoneCode" format="integer" />
+        <attr name="ccp_contentColor" format="color" />
+        <attr name="ccp_arrowColor" format="color" />
+        <attr name="ccp_textSize" format="dimension" />
+        <attr name="ccp_arrowSize" format="dimension" />
+        <attr name="ccp_customMasterCountries" format="string" />
+        <attr name="ccp_excludedCountries" format="string" />
+        <attr name="ccp_flagBorderColor" format="color" />
+        <attr name="ccp_countryPreference" format="string" />
+        <attr name="ccp_defaultNameCode" format="string" />
+        <attr name="ccp_selectionMemoryTag" format="string" />
+        <attr name="ccp_useFlagEmoji" format="boolean" /> <!-- beta -->
+        <attr name="ccp_useDummyEmojiForPreview" format="boolean" /> <!-- beta -->
+
+        <attr name="ccp_textGravity" format="enum">
+            <enum name="LEFT" value="-1" />
+            <enum name="RIGHT" value="1" />
+            <enum name="CENTER" value="0" />
+        </attr>
+        <attr name="ccp_hintExampleNumberType" format="enum">
+            <enum name="MOBILE" value="0" />
+            <enum name="FIXED_LINE" value="1" />
+            <enum name="FIXED_LINE_OR_MOBILE" value="2" />
+            <enum name="TOLL_FREE" value="3" />
+            <enum name="PREMIUM_RATE" value="4" />
+            <enum name="SHARED_COST" value="5" />
+            <enum name="VOIP" value="6" />
+            <enum name="PERSONAL_NUMBER" value="7" />
+            <enum name="PAGER" value="8" />
+            <enum name="UAN" value="9" />
+            <enum name="VOICEMAIL" value="10" />
+            <enum name="UNKNOWN" value="11" />
+
+        </attr>
+
+        <!--CCP bool properties-->
+        <attr name="ccp_showFlag" format="boolean" />
+        <attr name="ccp_showNameCode" format="boolean" />
+        <attr name="ccp_showFullName" format="boolean" />
+        <attr name="ccp_showPhoneCode" format="boolean" />
+        <attr name="ccp_showArrow" format="boolean" />
+
+        <attr name="ccp_internationalFormattingOnly" format="boolean" />
+        <attr name="ccp_clickable" format="boolean" />
+        <attr name="ccp_autoDetectLanguage" format="boolean" />
+        <attr name="ccp_autoDetectCountry" format="boolean" />
+        <attr name="ccp_areaCodeDetectedCountry" format="boolean" />
+        <attr name="ccp_autoFormatNumber" format="boolean" />
+        <attr name="ccp_hintExampleNumber" format="boolean" />
+        <attr name="ccp_rememberLastSelection" format="boolean" />
+
+        <!--CCP DropDown properties-->
+        <attr name="ccpDropDown_allowSearch" format="boolean" />
+        <attr name="ccpDropDown_showFlag" format="boolean" />
+        <attr name="ccpDropDown_showNameCode" format="boolean" />
+        <attr name="ccpDropDown_showFullCountryName" format="boolean" />
+        <attr name="ccpDropDown_showPhoneCode" format="boolean" />
+
+        <attr name="ccpDropDown_keyboardAutoPopup" format="boolean" />
+        <attr name="ccpDropDown_backgroundColor" format="color" />
+        <attr name="ccpDropDown_textColor" format="color" />
+        <attr name="ccpDropDown_searchEditTextTint" format="color" />
+        <attr name="ccpDropDown_viewSortDefaultColor" format="color" />
+        <attr name="ccpDropDown_viewSortSelectedColor" format="color" />
+        <attr name="ccpDropDown_initialScrollToSelection" format="boolean" />
+
+        <attr name="ccp_countryAutoDetectionPref" format="enum">
+            <enum name="SIM_ONLY" value="1" />
+            <enum name="NETWORK_ONLY" value="2" />
+            <enum name="LOCALE_ONLY" value="3" />
+            <enum name="SIM_NETWORK" value="12" />
+            <enum name="NETWORK_SIM" value="21" />
+            <enum name="SIM_LOCALE" value="13" />
+            <enum name="LOCALE_SIM" value="31" />
+            <enum name="NETWORK_LOCALE" value="23" />
+            <enum name="LOCALE_NETWORK" value="32" />
+            <enum name="SIM_NETWORK_LOCALE" value="123" />
+            <enum name="SIM_LOCALE_NETWORK" value="132" />
+            <enum name="NETWORK_SIM_LOCALE" value="213" />
+            <enum name="NETWORK_LOCALE_SIM" value="231" />
+            <enum name="LOCALE_SIM_NETWORK" value="312" />
+            <enum name="LOCALE_NETWORK_SIM" value="321" />
+        </attr>
+    </declare-styleable>
+</resources>

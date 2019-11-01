@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afghanistan_name">Afghanistan</string>
+    <string name="afghanistan_code" translatable="false">af</string>
+    <string name="afghanistan_number" translatable="false">93</string>
+
+    <string name="aland_islands_name">Åland Islands</string>
+    <string name="aland_islands_code" translatable="false">ax</string>
+    <string name="aland_islands_number" translatable="false">35818</string>
+
+    <string name="albania_name">Albania</string>
+    <string name="albania_code" translatable="false">al</string>
+    <string name="albania_number" translatable="false">355</string>
+
+    <string name="algeria_name">Algeria</string>
+    <string name="algeria_code" translatable="false">dz</string>
+    <string name="algeria_number" translatable="false">213</string>
+
+    <string name="american_samoa_name">American Samoa</string>
+    <string name="american_samoa_code" translatable="false">as</string>
+    <string name="american_samoa_number" translatable="false">1684</string>
+
+    <string name="andorra_name">Andorra</string>
+    <string name="andorra_code" translatable="false">ad</string>
+    <string name="andorra_number" translatable="false">376</string>
+
+    <string name="angola_name">Angola</string>
+    <string name="angola_code" translatable="false">ao</string>
+    <string name="angola_number" translatable="false">244</string>
+
+    <string name="anguilla_name">Anguilla</string>
+    <string name="anguilla_code" translatable="false">ai</string>
+    <string name="anguilla_number" translatable="false">1264</string>
+
+    <string name="antarctica_name">Antarctica</string>
+    <string name="antarctica_code" translatable="false">aq</string>
+    <string name="antarctica_number" translatable="false">672</string>
+
+    <string name="antigua_and_barbuda_name">Antigua and Barbuda</string>
+    <string name="antigua_and_barbuda_code" translatable="false">ag</string>
+    <string name="antigua_and_barbuda_number" translatable="false">1268</string>
+
+    <string name="argentina_name">Argentina</string>
+    <string name="argentina_code" translatable="false">ar</string>
+    <string name="argentina_number" translatable="false">54</string>
+
+    <string name="armenia_name">Armenia</string>
+    <string name="armenia_code" translatable="false">am</string>
+    <string name="armenia_number" translatable="false">374</string>
+
+    <string name="aruba_name">Aruba</string>
+    <string name="aruba_code" translatable="false">aw</string>
+    <string name="aruba_number" translatable="false">297</string>
+
+    <string name="australia_name">Australia</string>
+    <string name="australia_code" translatable="false">au</string>
+    <string name="australia_number" translatable="false">61</string>
+
+    <string name="austria_name">Austria</string>
+    <string name="austria_code" translatable="false">at</string>
+    <string name="austria_number" translatable="false">43</string>
+
+    <string name="azerbaijan_name">Azerbaijan</string>
+    <string name="azerbaijan_code" translatable="false">az</string>
+    <string name="azerbaijan_number" translatable="false">994</string>
+
+    <string name="bahamas_name">Bahamas</string>
+    <string name="bahamas_code" translatable="false">bs</string>
+    <string name="bahamas_number" translatable="false">1242</string>
+
+    <string name="bahrain_name">Bahrain</string>
+    <string name="bahrain_code" translatable="false">bh</string>
+    <string name="bahrain_number" translatable="false">973</string>
+
+    <string name="bangladesh_name">Bangladesh</string>
+    <string name="bangladesh_code" translatable="false">bd</string>
+    <string name="bangladesh_number" translatable="false">880</string>
+
+    <string name="barbados_name">Barbados</string>
+    <string name="barbados_code" translatable="false">bb</string>
+    <string name="barbados_number" translatable="false">1246</string>
+
+    <string name="belarus_name">Belarus</string>
+    <string name="belarus_code" translatable="false">by</string>
+    <string name="belarus_number" translatable="false">375</string>
+
+    <string name="belgium_name">Belgium</string>
+    <string name="belgium_code" translatable="false">be</string>
+    <string name="belgium_number" translatable="false">32</string>
+
+    <string name="belize_name">Belize</string>
+    <string name="belize_code" translatable="false">bz</string>
+    <string name="belize_number" translatable="false">501</string>
+
+    <string name="benin_name">Benin</string>
+    <string name="benin_code" translatable="false">bj</string>
+    <string name="benin_number" translatable="false">229</string>
+
+    <string name="bermuda_name">Bermuda</string>
+    <string name="bermuda_code" translatable="false">bm</string>
+    <string name="bermuda_number" translatable="false">1441</string>
+
+    <string name="bhutan_name">Bhutan</string>
+    <string name="bhutan_code" translatable="false">bt</string>
+    <string name="bhutan_number" translatable="false">975</string>
+
+    <string name="bolivia_name">Bolivia</string>
+    <string name="bolivia_code" translatable="false">bo</string>
+    <string name="bolivia_number" translatable="false">591</string>
+
+    <string name="bosnia_and_herzegovina_name">Bosnia And Herzegovina</string>
+    <string name="bosnia_and_herzegovina_code" translatable="false">ba</string>
+    <string name="bosnia_and_herzegovina_number" translatable="false">387</string>
+
+    <string name="botswana_name">Botswana</string>
+    <string name="botswana_code" translatable="false">bw</string>
+    <string name="botswana_number" translatable="false">267</string>
+
+    <string name="brazil_name">Brazil</string>
+    <string name="brazil_code" translatable="false">br</string>
+    <string name="brazil_number" translatable="false">55</string>
+
+    <string name="british_indian_ocean_territory_name">British Indian Ocean Territory</string>
+    <string name="british_indian_ocean_territory_code" translatable="false">io</string>
+    <string name="british_indian_ocean_territory_number" translatable="false">246</string>
+
+    <string name="british_virgin_islands_name">British Virgin Islands</string>
+    <string name="british_virgin_islands_code" translatable="false">vg</string>
+    <string name="british_virgin_islands_number" translatable="false">1284</string>
+
+    <string name="brunei_darussalam_name">Brunei Darussalam</string>
+    <string name="brunei_darussalam_code" translatable="false">bn</string>
+    <string name="brunei_darussalam_number" translatable="false">673</string>
+
+    <string name="bulgaria_name">Bulgaria</string>
+    <string name="bulgaria_code" translatable="false">bg</string>
+    <string name="bulgaria_number" translatable="false">359</string>
+
+    <string name="burkina_faso_name">Burkina Faso</string>
+    <string name="burkina_faso_code" translatable="false">bf</string>
+    <string name="burkina_faso_number" translatable="false">226</string>
+
+    <string name="burundi_name">Burundi</string>
+    <string name="burundi_code" translatable="false">bi</string>
+    <string name="burundi_number" translatable="false">257</string>
+
+    <string name="cambodia_name">Cambodia</string>
+    <string name="cambodia_code" translatable="false">kh</string>
+    <string name="cambodia_number" translatable="false">855</string>
+
+    <string name="cameroon_name">Cameroon</string>
+    <string name="cameroon_code" translatable="false">cm</string>
+    <string name="cameroon_number" translatable="false">237</string>
+
+    <string name="canada_name">Canada</string>
+    <string name="canada_code" translatable="false">ca</string>
+    <string name="canada_number" translatable="false">1</string>
+
+    <string name="cape_verde_name">Cape Verde</string>
+    <string name="cape_verde_code" translatable="false">cv</string>
+    <string name="cape_verde_number" translatable="false">238</string>
+
+    <string name="cayman_islands_name">Cayman Islands</string>
+    <string name="cayman_islands_code" translatable="false">ky</string>
+    <string name="cayman_islands_number" translatable="false">1345</string>
+
+    <string name="central_african_republic_name">Central African Republic</string>
+    <string name="central_african_republic_code" translatable="false">cf</string>
+    <string name="central_african_republic_number" translatable="false">236</string>
+
+    <string name="chad_name">Chad</string>
+    <string name="chad_code" translatable="false">td</string>
+    <string name="chad_number" translatable="false">235</string>
+
+    <string name="chile_name">Chile</string>
+    <string name="chile_code" translatable="false">cl</string>
+    <string name="chile_number" translatable="false">56</string>
+
+    <string name="china_name">China</string>
+    <string name="china_code" translatable="false">cn</string>
+    <string name="china_number" translatable="false">86</string>
+
+    <string name="christmas_island_name">Christmas Island</string>
+    <string name="christmas_island_code" translatable="false">cx</string>
+    <string name="christmas_island_number" translatable="false">61</string>
+
+    <string name="cocos_keeling_islands_name">Cocos (keeling) Islands</string>
+    <string name="cocos_keeling_islands_code" translatable="false">cc</string>
+    <string name="cocos_keeling_islands_number" translatable="false">61</string>
+
+    <string name="colombia_name">Colombia</string>
+    <string name="colombia_code" translatable="false">co</string>
+    <string name="colombia_number" translatable="false">57</string>
+
+    <string name="comoros_name">Comoros</string>
+    <string name="comoros_code" translatable="false">km</string>
+    <string name="comoros_number" translatable="false">269</string>
+
+    <string name="congo_name">Republic of the Congo</string>
+    <string name="congo_code" translatable="false">cg</string>
+    <string name="congo_number" translatable="false">242</string>
+
+    <string name="the_democratic_republic_of_congo_name">Democratic Republic of the Congo</string>
+    <string name="the_democratic_republic_of_congo_code" translatable="false">cd</string>
+    <string name="the_democratic_republic_of_congo_number" translatable="false">243</string>
+
+    <string name="cook_islands_name">Cook Islands</string>
+    <string name="cook_islands_code" translatable="false">ck</string>
+    <string name="cook_islands_number" translatable="false">682</string>
+
+    <string name="costa_rica_name">Costa Rica</string>
+    <string name="costa_rica_code" translatable="false">cr</string>
+    <string name="costa_rica_number" translatable="false">506</string>
+
+    <string name="croatia_name">Croatia</string>
+    <string name="croatia_code" translatable="false">hr</string>
+    <string name="croatia_number" translatable="false">385</string>
+
+    <string name="cuba_name">Cuba</string>
+    <string name="cuba_code" translatable="false">cu</string>
+    <string name="cuba_number" translatable="false">53</string>
+
+    <string name="curacao_name">Curaçao</string>
+    <string name="curacao_code" translatable="false">cw</string>
+    <string name="curacao_number" translatable="false">599</string>
+
+    <string name="cyprus_name">Cyprus</string>
+    <string name="cyprus_code" translatable="false">cy</string>
+    <string name="cyprus_number" translatable="false">357</string>
+
+    <string name="czech_republic_name">Czech Republic</string>
+    <string name="czech_republic_code" translatable="false">cz</string>
+    <string name="czech_republic_number" translatable="false">420</string>
+
+    <string name="denmark_name">Denmark</string>
+    <string name="denmark_code" translatable="false">dk</string>
+    <string name="denmark_number" translatable="false">45</string>
+
+    <string name="djibouti_name">Djibouti</string>
+    <string name="djibouti_code" translatable="false">dj</string>
+    <string name="djibouti_number" translatable="false">253</string>
+
+    <string name="dominica_name">Dominica</string>
+    <string name="dominica_code" translatable="false">dm</string>
+    <string name="dominica_number" translatable="false">1767</string>
+
+    <string name="dominican_republic_name">Dominican Republic</string>
+    <string name="dominican_republic_code" translatable="false">do</string>
+    <string name="dominican_republic_number" translatable="false">1849</string>
+
+    <string name="timor_leste_name">Timor-leste</string>
+    <string name="timor_leste_code" translatable="false">tl</string>
+    <string name="timor_leste_number" translatable="false">670</string>
+
+    <string name="ecuador_name">Ecuador</string>
+    <string name="ecuador_code" translatable="false">ec</string>
+    <string name="ecuador_number" translatable="false">593</string>
+
+    <string name="egypt_name">Egypt</string>
+    <string name="egypt_code" translatable="false">eg</string>
+    <string name="egypt_number" translatable="false">20</string>
+
+    <string name="el_salvador_name">El Salvador</string>
+    <string name="el_salvador_code" translatable="false">sv</string>
+    <string name="el_salvador_number" translatable="false">503</string>
+
+    <string name="equatorial_guinea_name">Equatorial Guinea</string>
+    <string name="equatorial_guinea_code" translatable="false">gq</string>
+    <string name="equatorial_guinea_number" translatable="false">240</string>
+
+    <string name="eritrea_name">Eritrea</string>
+    <string name="eritrea_code" translatable="false">er</string>
+    <string name="eritrea_number" translatable="false">291</string>
+
+    <string name="estonia_name">Estonia</string>
+    <string name="estonia_code" translatable="false">ee</string>
+    <string name="estonia_number" translatable="false">372</string>
+
+    <string name="ethiopia_name">Ethiopia</string>
+    <string name="ethiopia_code" translatable="false">et</string>
+    <string name="ethiopia_number" translatable="false">251</string>
+
+    <string name="falkland_islands_malvinas_name">Falkland Islands (malvinas)</string>
+    <string name="falkland_islands_malvinas_code" translatable="false">fk</string>
+    <string name="falkland_islands_malvinas_number" translatable="false">500</string>
+
+    <string name="faroe_islands_name">Faroe Islands</string>
+    <string name="faroe_islands_code" translatable="false">fo</string>
+    <string name="faroe_islands_number" translatable="false">298</string>
+
+    <string name="fiji_name">Fiji</string>
+    <string name="fiji_code" translatable="false">fj</string>
+    <string name="fiji_number" translatable="false">679</string>
+
+    <string name="finland_name">Finland</string>
+    <string name="finland_code" translatable="false">fi</string>
+    <string name="finland_number" translatable="false">358</string>
+
+    <string name="france_name">France</string>
+    <string name="france_code" translatable="false">fr</string>
+    <string name="france_number" translatable="false">33</string>
+
+    <string name="french_guyana_name">French Guiana</string>
+    <string name="french_guyana_code" translatable="false">gf</string>
+    <string name="french_guyana_number" translatable="false">594</string>
+
+    <string name="french_polynesia_name">French Polynesia</string>
+    <string name="french_polynesia_code" translatable="false">pf</string>
+    <string name="french_polynesia_number" translatable="false">689</string>
+
+    <string name="gabon_name">Gabon</string>
+    <string name="gabon_code" translatable="false">ga</string>
+    <string name="gabon_number" translatable="false">241</string>
+
+    <string name="gambia_name">Gambia</string>
+    <string name="gambia_code" translatable="false">gm</string>
+    <string name="gambia_number" translatable="false">220</string>
+
+    <string name="georgia_name">Georgia</string>
+    <string name="georgia_code" translatable="false">ge</string>
+    <string name="georgia_number" translatable="false">995</string>
+
+    <string name="germany_name">Germany</string>
+    <string name="germany_code" translatable="false">de</string>
+    <string name="germany_number" translatable="false">49</string>
+
+    <string name="ghana_name">Ghana</string>
+    <string name="ghana_code" translatable="false">gh</string>
+    <string name="ghana_number" translatable="false">233</string>
+
+    <string name="gibraltar_name">Gibraltar</string>
+    <string name="gibraltar_code" translatable="false">gi</string>
+    <string name="gibraltar_number" translatable="false">350</string>
+
+    <string name="greece_name">Greece</string>
+    <string name="greece_code" translatable="false">gr</string>
+    <string name="greece_number" translatable="false">30</string>
+
+    <string name="greenland_name">Greenland</string>
+    <string name="greenland_code" translatable="false">gl</string>
+    <string name="greenland_number" translatable="false">299</string>
+
+    <string name="grenada_name">Grenada</string>
+    <string name="grenada_code" translatable="false">gd</string>
+    <string name="grenada_number" translatable="false">1473</string>
+
+    <string name="guadeloupe_name">Guadeloupe</string>
+    <string name="guadeloupe_code" translatable="false">gp</string>
+    <string name="guadeloupe_number" translatable="false">590</string>
+
+    <string name="guam_name">Guam</string>
+    <string name="guam_code" translatable="false">gu</string>
+    <string name="guam_number" translatable="false">1671</string>
+
+    <string name="guatemala_name">Guatemala</string>
+    <string name="guatemala_code" translatable="false">gt</string>
+    <string name="guatemala_number" translatable="false">502</string>
+
+    <string name="guernsey_name">Guernsey</string>
+    <string name="guernsey_code" translatable="false">gg</string>
+    <string name="guernsey_number" translatable="false">44</string>
+
+    <string name="guinea_name">Guinea</string>
+    <string name="guinea_code" translatable="false">gn</string>
+    <string name="guinea_number" translatable="false">224</string>
+
+    <string name="guinea_bissau_name">Guinea-bissau</string>
+    <string name="guinea_bissau_code" translatable="false">gw</string>
+    <string name="guinea_bissau_number" translatable="false">245</string>
+
+    <string name="guyana_name">Guyana</string>
+    <string name="guyana_code" translatable="false">gy</string>
+    <string name="guyana_number" translatable="false">592</string>
+
+    <string name="haiti_name">Haiti</string>
+    <string name="haiti_code" translatable="false">ht</string>
+    <string name="haiti_number" translatable="false">509</string>
+
+    <string name="honduras_name">Honduras</string>
+    <string name="honduras_code" translatable="false">hn</string>
+    <string name="honduras_number" translatable="false">504</string>
+
+    <string name="hong_kong_name">Hong Kong</string>
+    <string name="hong_kong_code" translatable="false">hk</string>
+    <string name="hong_kong_number" translatable="false">852</string>
+
+    <string name="hungary_name">Hungary</string>
+    <string name="hungary_code" translatable="false">hu</string>
+    <string name="hungary_number" translatable="false">36</string>
+
+    <string name="iceland_name">Iceland</string>
+    <string name="iceland_code" translatable="false">is</string>
+    <string name="iceland_number" translatable="false">354</string>
+
+    <string name="india_name">India</string>
+    <string name="india_code" translatable="false">in</string>
+    <string name="india_number" translatable="false">91</string>
+
+    <string name="indonesia_name">Indonesia</string>
+    <string name="indonesia_code" translatable="false">id</string>
+    <string name="indonesia_number" translatable="false">62</string>
+
+    <string name="iran_name">Iran</string>
+    <string name="iran_code" translatable="false">ir</string>
+    <string name="iran_number" translatable="false">98</string>
+
+    <string name="iraq_name">Iraq</string>
+    <string name="iraq_code" translatable="false">iq</string>
+    <string name="iraq_number" translatable="false">964</string>
+
+    <string name="ireland_name">Ireland</string>
+    <string name="ireland_code" translatable="false">ie</string>
+    <string name="ireland_number" translatable="false">353</string>
+
+    <string name="isle_of_man_name">Isle Of Man</string>
+    <string name="isle_of_man_code" translatable="false">im</string>
+    <string name="isle_of_man_number" translatable="false">44</string>
+
+    <string name="israel_name">Israel</string>
+    <string name="israel_code" translatable="false">il</string>
+    <string name="israel_number" translatable="false">972</string>
+
+    <string name="italy_name">Italy</string>
+    <string name="italy_code" translatable="false">it</string>
+    <string name="italy_number" translatable="false">39</string>
+
+    <string name="cote_d_ivoire_name">Côte D\'ivoire</string>
+    <string name="cote_d_ivoire_code" translatable="false">ci</string>
+    <string name="cote_d_ivoire_number" translatable="false">225</string>
+
+    <string name="jamaica_name">Jamaica</string>
+    <string name="jamaica_code" translatable="false">jm</string>
+    <string name="jamaica_number" translatable="false">1876</string>
+
+    <string name="japan_name">Japan</string>
+    <string name="japan_code" translatable="false">jp</string>
+    <string name="japan_number" translatable="false">81</string>
+
+    <string name="jersey_name">Jersey</string>
+    <string name="jersey_code" translatable="false">je</string>
+    <string name="jersey_number" translatable="false">44</string>
+
+    <string name="jordan_name">Jordan</string>
+    <string name="jordan_code" translatable="false">jo</string>
+    <string name="jordan_number" translatable="false">962</string>
+
+    <string name="kazakhstan_name">Kazakhstan</string>
+    <string name="kazakhstan_code" translatable="false">kz</string>
+    <string name="kazakhstan_number" translatable="false">7</string>
+
+    <string name="kenya_name">Kenya</string>
+    <string name="kenya_code" translatable="false">ke</string>
+    <string name="kenya_number" translatable="false">254</string>
+
+    <string name="kiribati_name">Kiribati</string>
+    <string name="kiribati_code" translatable="false">ki</string>
+    <string name="kiribati_number" translatable="false">686</string>
+
+    <string name="kosovo_name">Kosovo</string>
+    <string name="kosovo_code" translatable="false">xk</string>
+    <string name="kosovo_number" translatable="false">383</string>
+
+    <string name="kuwait_name">Kuwait</string>
+    <string name="kuwait_code" translatable="false">kw</string>
+    <string name="kuwait_number" translatable="false">965</string>
+
+    <string name="kyrgyzstan_name">Kyrgyzstan</string>
+    <string name="kyrgyzstan_code" translatable="false">kg</string>
+    <string name="kyrgyzstan_number" translatable="false">996</string>
+
+    <string name="lao_peoples_democratic_republic_name">Lao People\'s Democratic Republic</string>
+    <string name="lao_peoples_democratic_republic_code" translatable="false">la</string>
+    <string name="lao_peoples_democratic_republic_number" translatable="false">856</string>
+
+    <string name="latvia_name">Latvia</string>
+    <string name="latvia_code" translatable="false">lv</string>
+    <string name="latvia_number" translatable="false">371</string>
+
+    <string name="lebanon_name">Lebanon</string>
+    <string name="lebanon_code" translatable="false">lb</string>
+    <string name="lebanon_number" translatable="false">961</string>
+
+    <string name="lesotho_name">Lesotho</string>
+    <string name="lesotho_code" translatable="false">ls</string>
+    <string name="lesotho_number" translatable="false">266</string>
+
+    <string name="liberia_name">Liberia</string>
+    <string name="liberia_code" translatable="false">lr</string>
+    <string name="liberia_number" translatable="false">231</string>
+
+    <string name="libya_name">Libya</string>
+    <string name="libya_code" translatable="false">ly</string>
+    <string name="libya_number" translatable="false">218</string>
+
+    <string name="liechtenstein_name">Liechtenstein</string>
+    <string name="liechtenstein_code" translatable="false">li</string>
+    <string name="liechtenstein_number" translatable="false">423</string>
+
+    <string name="lithuania_name">Lithuania</string>
+    <string name="lithuania_code" translatable="false">lt</string>
+    <string name="lithuania_number" translatable="false">370</string>
+
+    <string name="luxembourg_name">Luxembourg</string>
+    <string name="luxembourg_code" translatable="false">lu</string>
+    <string name="luxembourg_number" translatable="false">352</string>
+
+    <string name="macao_name">Macao</string>
+    <string name="macao_code" translatable="false">mo</string>
+    <string name="macao_number" translatable="false">853</string>
+
+    <string name="macedonia_name">Macedonia</string>
+    <string name="macedonia_code" translatable="false">mk</string>
+    <string name="macedonia_number" translatable="false">389</string>
+
+    <string name="madagascar_name">Madagascar</string>
+    <string name="madagascar_code" translatable="false">mg</string>
+    <string name="madagascar_number" translatable="false">261</string>
+
+    <string name="malawi_name">Malawi</string>
+    <string name="malawi_code" translatable="false">mw</string>
+    <string name="malawi_number" translatable="false">265</string>
+
+    <string name="malaysia_name">Malaysia</string>
+    <string name="malaysia_code" translatable="false">my</string>
+    <string name="malaysia_number" translatable="false">60</string>
+
+    <string name="maldives_name">Maldives</string>
+    <string name="maldives_code" translatable="false">mv</string>
+    <string name="maldives_number" translatable="false">960</string>
+
+    <string name="mali_name">Mali</string>
+    <string name="mali_code" translatable="false">ml</string>
+    <string name="mali_number" translatable="false">223</string>
+
+    <string name="malta_name">Malta</string>
+    <string name="malta_code" translatable="false">mt</string>
+    <string name="malta_number" translatable="false">356</string>
+
+    <string name="marshall_islands_name">Marshall Islands</string>
+    <string name="marshall_islands_code" translatable="false">mh</string>
+    <string name="marshall_islands_number" translatable="false">692</string>
+
+    <string name="martinique_name">Martinique</string>
+    <string name="martinique_code" translatable="false">mq</string>
+    <string name="martinique_number" translatable="false">596</string>
+
+    <string name="mauritania_name">Mauritania</string>
+    <string name="mauritania_code" translatable="false">mr</string>
+    <string name="mauritania_number" translatable="false">222</string>
+
+    <string name="mauritius_name">Mauritius</string>
+    <string name="mauritius_code" translatable="false">mu</string>
+    <string name="mauritius_number" translatable="false">230</string>
+
+    <string name="mayotte_name">Mayotte</string>
+    <string name="mayotte_code" translatable="false">yt</string>
+    <string name="mayotte_number" translatable="false">262</string>
+
+    <string name="mexico_name">Mexico</string>
+    <string name="mexico_code" translatable="false">mx</string>
+    <string name="mexico_number" translatable="false">52</string>
+
+    <string name="micronesia_name">Micronesia</string>
+    <string name="micronesia_code" translatable="false">fm</string>
+    <string name="micronesia_number" translatable="false">691</string>
+
+    <string name="moldova_name">Moldova</string>
+    <string name="moldova_code" translatable="false">md</string>
+    <string name="moldova_number" translatable="false">373</string>
+
+    <string name="monaco_name">Monaco</string>
+    <string name="monaco_code" translatable="false">mc</string>
+    <string name="monaco_number" translatable="false">377</string>
+
+    <string name="mongolia_name">Mongolia</string>
+    <string name="mongolia_code" translatable="false">mn</string>
+    <string name="mongolia_number" translatable="false">976</string>
+
+    <string name="montserrat_name">Montserrat</string>
+    <string name="montserrat_code" translatable="false">ms</string>
+    <string name="montserrat_number" translatable="false">1664</string>
+
+    <string name="montenegro_name">Montenegro</string>
+    <string name="montenegro_code" translatable="false">me</string>
+    <string name="montenegro_number" translatable="false">382</string>
+
+    <string name="morocco_name">Morocco</string>
+    <string name="morocco_code" translatable="false">ma</string>
+    <string name="morocco_number" translatable="false">212</string>
+
+    <string name="mozambique_name">Mozambique</string>
+    <string name="mozambique_code" translatable="false">mz</string>
+    <string name="mozambique_number" translatable="false">258</string>
+
+    <string name="myanmar_name">Myanmar</string>
+    <string name="myanmar_code" translatable="false">mm</string>
+    <string name="myanmar_number" translatable="false">95</string>
+
+    <string name="namibia_name">Namibia</string>
+    <string name="namibia_code" translatable="false">na</string>
+    <string name="namibia_number" translatable="false">264</string>
+
+    <string name="nauru_name">Nauru</string>
+    <string name="nauru_code" translatable="false">nr</string>
+    <string name="nauru_number" translatable="false">674</string>
+
+    <string name="nepal_name">Nepal</string>
+    <string name="nepal_code" translatable="false">np</string>
+    <string name="nepal_number" translatable="false">977</string>
+
+    <string name="netherlands_name">Netherlands</string>
+    <string name="netherlands_code" translatable="false">nl</string>
+    <string name="netherlands_number" translatable="false">31</string>
+
+    <string name="new_caledonia_name">New Caledonia</string>
+    <string name="new_caledonia_code" translatable="false">nc</string>
+    <string name="new_caledonia_number" translatable="false">687</string>
+
+    <string name="new_zealand_name">New Zealand</string>
+    <string name="new_zealand_code" translatable="false">nz</string>
+    <string name="new_zealand_number" translatable="false">64</string>
+
+    <string name="nicaragua_name">Nicaragua</string>
+    <string name="nicaragua_code" translatable="false">ni</string>
+    <string name="nicaragua_number" translatable="false">505</string>
+
+    <string name="niger_name">Niger</string>
+    <string name="niger_code" translatable="false">ne</string>
+    <string name="niger_number" translatable="false">227</string>
+
+    <string name="nigeria_name">Nigeria</string>
+    <string name="nigeria_code" translatable="false">ng</string>
+    <string name="nigeria_number" translatable="false">234</string>
+
+    <string name="niue_name">Niue</string>
+    <string name="niue_code" translatable="false">nu</string>
+    <string name="niue_number" translatable="false">683</string>
+
+    <string name="north_korea_name">North Korea</string>
+    <string name="north_korea_code" translatable="false">kp</string>
+    <string name="north_korea_number" translatable="false">672</string>
+
+    <string name="norfolk_island_name">Norfolk Island</string>
+    <string name="norfolk_island_code" translatable="false">nf</string>
+    <string name="norfolk_island_number" translatable="false">672</string>
+
+    <string name="northern_mariana_islands_name">Northern Mariana Islands</string>
+    <string name="northern_mariana_islands_code" translatable="false">mp</string>
+    <string name="northern_mariana_islands_number" translatable="false">1670</string>
+
+    <string name="norway_name">Norway</string>
+    <string name="norway_code" translatable="false">no</string>
+    <string name="norway_number" translatable="false">47</string>
+
+    <string name="oman_name">Oman</string>
+    <string name="oman_code" translatable="false">om</string>
+    <string name="oman_number" translatable="false">968</string>
+
+    <string name="pakistan_name">Pakistan</string>
+    <string name="pakistan_code" translatable="false">pk</string>
+    <string name="pakistan_number" translatable="false">92</string>
+
+    <string name="palau_name">Palau</string>
+    <string name="palau_code" translatable="false">pw</string>
+    <string name="palau_number" translatable="false">680</string>
+
+    <string name="palestian_territory_name">Palestinian Territory, Occupied</string>
+    <string name="palestian_territory_code" translatable="false">ps</string>
+    <string name="palestian_territory_number" translatable="false">970</string>
+
+    <string name="panama_name">Panama</string>
+    <string name="panama_code" translatable="false">pa</string>
+    <string name="panama_number" translatable="false">507</string>
+
+    <string name="papua_new_guinea_name">Papua New Guinea</string>
+    <string name="papua_new_guinea_code" translatable="false">pg</string>
+    <string name="papua_new_guinea_number" translatable="false">675</string>
+
+    <string name="paraguay_name">Paraguay</string>
+    <string name="paraguay_code" translatable="false">py</string>
+    <string name="paraguay_number" translatable="false">595</string>
+
+    <string name="peru_name">Peru</string>
+    <string name="peru_code" translatable="false">pe</string>
+    <string name="peru_number" translatable="false">51</string>
+
+    <string name="philippines_name">Philippines</string>
+    <string name="philippines_code" translatable="false">ph</string>
+    <string name="philippines_number" translatable="false">63</string>
+
+    <string name="pitcairn_name">Pitcairn</string>
+    <string name="pitcairn_code" translatable="false">pn</string>
+    <string name="pitcairn_number" translatable="false">64</string>
+
+    <string name="poland_name">Poland</string>
+    <string name="poland_code" translatable="false">pl</string>
+    <string name="poland_number" translatable="false">48</string>
+
+    <string name="portugal_name">Portugal</string>
+    <string name="portugal_code" translatable="false">pt</string>
+    <string name="portugal_number" translatable="false">351</string>
+
+    <string name="puerto_rico_name">Puerto Rico</string>
+    <string name="puerto_rico_code" translatable="false">pr</string>
+    <string name="puerto_rico_number" translatable="false">1939</string>
+
+    <string name="qatar_name">Qatar</string>
+    <string name="qatar_code" translatable="false">qa</string>
+    <string name="qatar_number" translatable="false">974</string>
+
+    <string name="reunion_name">Réunion</string>
+    <string name="reunion_code" translatable="false">re</string>
+    <string name="reunion_number" translatable="false">262</string>
+
+    <string name="romania_name">Romania</string>
+    <string name="romania_code" translatable="false">ro</string>
+    <string name="romania_number" translatable="false">40</string>
+
+    <string name="russian_federation_name">Russian Federation</string>
+    <string name="russian_federation_code" translatable="false">ru</string>
+    <string name="russian_federation_number" translatable="false">7</string>
+
+    <string name="rwanda_name">Rwanda</string>
+    <string name="rwanda_code" translatable="false">rw</string>
+    <string name="rwanda_number" translatable="false">250</string>
+
+    <string name="saint_barthelemy_name">Saint Barthélemy</string>
+    <string name="saint_barthelemy_code" translatable="false">bl</string>
+    <string name="saint_barthelemy_number" translatable="false">590</string>
+
+    <string name="saint_kitts_and_nevis_name">Saint Kitts and Nevis</string>
+    <string name="saint_kitts_and_nevis_code" translatable="false">kn</string>
+    <string name="saint_kitts_and_nevis_number" translatable="false">1869</string>
+
+    <string name="saint_lucia_name">Saint Lucia</string>
+    <string name="saint_lucia_code" translatable="false">lc</string>
+    <string name="saint_lucia_number" translatable="false">1758</string>
+
+    <string name="saint_martin_name">Saint Martin</string>
+    <string name="saint_martin_code" translatable="false">mf</string>
+    <string name="saint_martin_number" translatable="false">590</string>
+
+    <string name="saint_vincent_the_grenadines_name">Saint Vincent &amp; The Grenadines</string>
+    <string name="saint_vincent_the_grenadines_code" translatable="false">vc</string>
+    <string name="saint_vincent_the_grenadines_number" translatable="false">1784</string>
+
+    <string name="samoa_name">Samoa</string>
+    <string name="samoa_code" translatable="false">ws</string>
+    <string name="samoa_number" translatable="false">685</string>
+
+    <string name="san_marino_name">San Marino</string>
+    <string name="san_marino_code" translatable="false">sm</string>
+    <string name="san_marino_number" translatable="false">378</string>
+
+    <string name="sao_tome_and_principe_name">Sao Tome And Principe</string>
+    <string name="sao_tome_and_principe_code" translatable="false">st</string>
+    <string name="sao_tome_and_principe_number" translatable="false">239</string>
+
+    <string name="saudi_arabia_name">Saudi Arabia</string>
+    <string name="saudi_arabia_code" translatable="false">sa</string>
+    <string name="saudi_arabia_number" translatable="false">966</string>
+
+    <string name="senegal_name">Senegal</string>
+    <string name="senegal_code" translatable="false">sn</string>
+    <string name="senegal_number" translatable="false">221</string>
+
+    <string name="serbia_name">Serbia</string>
+    <string name="serbia_code" translatable="false">rs</string>
+    <string name="serbia_number" translatable="false">381</string>
+
+    <string name="seychelles_name">Seychelles</string>
+    <string name="seychelles_code" translatable="false">sc</string>
+    <string name="seychelles_number" translatable="false">248</string>
+
+    <string name="sierra_leone_name">Sierra Leone</string>
+    <string name="sierra_leone_code" translatable="false">sl</string>
+    <string name="sierra_leone_number" translatable="false">232</string>
+
+    <string name="singapore_name">Singapore</string>
+    <string name="singapore_code" translatable="false">sg</string>
+    <string name="singapore_number" translatable="false">65</string>
+
+    <string name="sint_maarten_name">Sint Maarten</string>
+    <string name="sint_maarten_code" translatable="false">sx</string>
+    <string name="sint_maarten_number" translatable="false">1</string>
+
+    <string name="slovakia_name">Slovakia</string>
+    <string name="slovakia_code" translatable="false">sk</string>
+    <string name="slovakia_number" translatable="false">421</string>
+
+    <string name="slovenia_name">Slovenia</string>
+    <string name="slovenia_code" translatable="false">si</string>
+    <string name="slovenia_number" translatable="false">386</string>
+
+    <string name="solomon_islands_name">Solomon Islands</string>
+    <string name="solomon_islands_code" translatable="false">sb</string>
+    <string name="solomon_islands_number" translatable="false">677</string>
+
+    <string name="somalia_name">Somalia</string>
+    <string name="somalia_code" translatable="false">so</string>
+    <string name="somalia_number" translatable="false">252</string>
+
+    <string name="south_africa_name">South Africa</string>
+    <string name="south_africa_code" translatable="false">za</string>
+    <string name="south_africa_number" translatable="false">27</string>
+
+    <string name="south_korea_name">South Korea</string>
+    <string name="south_korea_code" translatable="false">kr</string>
+    <string name="south_korea_number" translatable="false">82</string>
+
+    <string name="south_georgia_name">South Georgia and the South Sandwich Islands</string>
+    <string name="south_georgia_code" translatable="false">gs</string>
+    <string name="south_georgia_number" translatable="false">500</string>
+
+    <string name="spain_name">Spain</string>
+    <string name="spain_code" translatable="false">es</string>
+    <string name="spain_number" translatable="false">34</string>
+
+    <string name="sri_lanka_name">Sri Lanka</string>
+    <string name="sri_lanka_code" translatable="false">lk</string>
+    <string name="sri_lanka_number" translatable="false">94</string>
+
+    <string name="saint_helena_name">Saint Helena</string>
+    <string name="saint_helena_code" translatable="false">sh</string>
+    <string name="saint_helena_number" translatable="false">290</string>
+
+    <string name="saint_pierre_and_miquelon_name">Saint Pierre And Miquelon</string>
+    <string name="saint_pierre_and_miquelon_code" translatable="false">pm</string>
+    <string name="saint_pierre_and_miquelon_number" translatable="false">508</string>
+
+    <string name="south_sudan_name">South Sudan</string>
+    <string name="south_sudan_code" translatable="false">ss</string>
+    <string name="south_sudan_number" translatable="false">211</string>
+
+    <string name="sudan_name">Sudan</string>
+    <string name="sudan_code" translatable="false">sd</string>
+    <string name="sudan_number" translatable="false">249</string>
+
+    <string name="suriname_name">Suriname</string>
+    <string name="suriname_code" translatable="false">sr</string>
+    <string name="suriname_number" translatable="false">597</string>
+
+    <string name="swaziland_name">Swaziland</string>
+    <string name="swaziland_code" translatable="false">sz</string>
+    <string name="swaziland_number" translatable="false">268</string>
+
+    <string name="sweden_name">Sweden</string>
+    <string name="sweden_code" translatable="false">se</string>
+    <string name="sweden_number" translatable="false">46</string>
+
+    <string name="switzerland_name">Switzerland</string>
+    <string name="switzerland_code" translatable="false">ch</string>
+    <string name="switzerland_number" translatable="false">41</string>
+
+    <string name="syrian_arab_republic_name">Syrian Arab Republic</string>
+    <string name="syrian_arab_republic_code" translatable="false">sy</string>
+    <string name="syrian_arab_republic_number" translatable="false">963</string>
+
+    <string name="taiwan_name">Taiwan</string>
+    <string name="taiwan_code" translatable="false">tw</string>
+    <string name="taiwan_number" translatable="false">886</string>
+
+    <string name="tajikistan_name">Tajikistan</string>
+    <string name="tajikistan_code" translatable="false">tj</string>
+    <string name="tajikistan_number" translatable="false">992</string>
+
+    <string name="tanzania_name">Tanzania</string>
+    <string name="tanzania_code" translatable="false">tz</string>
+    <string name="tanzania_number" translatable="false">255</string>
+
+    <string name="thailand_name">Thailand</string>
+    <string name="thailand_code" translatable="false">th</string>
+    <string name="thailand_number" translatable="false">66</string>
+
+    <string name="togo_name">Togo</string>
+    <string name="togo_code" translatable="false">tg</string>
+    <string name="togo_number" translatable="false">228</string>
+
+    <string name="tokelau_name">Tokelau</string>
+    <string name="tokelau_code" translatable="false">tk</string>
+    <string name="tokelau_number" translatable="false">690</string>
+
+    <string name="tonga_name">Tonga</string>
+    <string name="tonga_code" translatable="false">to</string>
+    <string name="tonga_number" translatable="false">676</string>
+
+    <string name="trinidad_tobago_name">Trinidad &amp; Tobago</string>
+    <string name="trinidad_tobago_code" translatable="false">tt</string>
+    <string name="trinidad_tobago_number" translatable="false">1868</string>
+
+    <string name="tunisia_name">Tunisia</string>
+    <string name="tunisia_code" translatable="false">tn</string>
+    <string name="tunisia_number" translatable="false">216</string>
+
+    <string name="turkey_name">Turkey</string>
+    <string name="turkey_code" translatable="false">tr</string>
+    <string name="turkey_number" translatable="false">90</string>
+
+    <string name="turkmenistan_name">Turkmenistan</string>
+    <string name="turkmenistan_code" translatable="false">tm</string>
+    <string name="turkmenistan_number" translatable="false">993</string>
+
+    <string name="turks_and_caicos_islands_name">Turks and Caicos Islands</string>
+    <string name="turks_and_caicos_islands_code" translatable="false">tc</string>
+    <string name="turks_and_caicos_islands_number" translatable="false">1649</string>
+
+    <string name="tuvalu_name">Tuvalu</string>
+    <string name="tuvalu_code" translatable="false">tv</string>
+    <string name="tuvalu_number" translatable="false">688</string>
+
+    <string name="united_arab_emirates_name">United Arab Emirates</string>
+    <string name="united_arab_emirates_code" translatable="false">ae</string>
+    <string name="united_arab_emirates_number" translatable="false">971</string>
+
+    <string name="uganda_name">Uganda</string>
+    <string name="uganda_code" translatable="false">ug</string>
+    <string name="uganda_number" translatable="false">256</string>
+
+    <string name="united_kingdom_name">United Kingdom</string>
+    <string name="united_kingdom_code" translatable="false">gb</string>
+    <string name="united_kingdom_number" translatable="false">44</string>
+
+    <string name="ukraine_name">Ukraine</string>
+    <string name="ukraine_code" translatable="false">ua</string>
+    <string name="ukraine_number" translatable="false">380</string>
+
+    <string name="uruguay_name">Uruguay</string>
+    <string name="uruguay_code" translatable="false">uy</string>
+    <string name="uruguay_number" translatable="false">598</string>
+
+    <string name="united_states_name">United States</string>
+    <string name="united_states_code" translatable="false">us</string>
+    <string name="united_states_number" translatable="false">1</string>
+
+    <string name="us_virgin_islands_name">US Virgin Islands</string>
+    <string name="us_virgin_islands_code" translatable="false">vi</string>
+    <string name="us_virgin_islands_number" translatable="false">1340</string>
+
+    <string name="uzbekistan_name">Uzbekistan</string>
+    <string name="uzbekistan_code" translatable="false">uz</string>
+    <string name="uzbekistan_number" translatable="false">998</string>
+
+    <string name="vanuatu_name">Vanuatu</string>
+    <string name="vanuatu_code" translatable="false">vu</string>
+    <string name="vanuatu_number" translatable="false">678</string>
+
+    <string name="holy_see_vatican_city_state_name">Holy See (vatican City State)</string>
+    <string name="holy_see_vatican_city_state_code" translatable="false">va</string>
+    <string name="holy_see_vatican_city_state_number" translatable="false">39</string>
+
+    <string name="venezuela_name">Venezuela</string>
+    <string name="venezuela_code" translatable="false">ve</string>
+    <string name="venezuela_number" translatable="false">58</string>
+
+    <string name="viet_nam_name">Vietnam</string>
+    <string name="viet_nam_code" translatable="false">vn</string>
+    <string name="viet_nam_number" translatable="false">84</string>
+
+    <string name="wallis_and_futuna_name">Wallis And Futuna</string>
+    <string name="wallis_and_futuna_code" translatable="false">wf</string>
+    <string name="wallis_and_futuna_number" translatable="false">681</string>
+
+    <string name="yemen_name">Yemen</string>
+    <string name="yemen_code" translatable="false">ye</string>
+    <string name="yemen_number" translatable="false">967</string>
+
+    <string name="zambia_name">Zambia</string>
+    <string name="zambia_code" translatable="false">zm</string>
+    <string name="zambia_number" translatable="false">260</string>
+
+    <string name="zimbabwe_name">Zimbabwe</string>
+    <string name="zimbabwe_code" translatable="false">zw</string>
+    <string name="zimbabwe_number" translatable="false">263</string>
+
+</resources>
