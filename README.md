@@ -24,6 +24,19 @@ How to add to your project
 --------------
 
 Add this to your gradle file and sync
+```groovy
+dependencies {
+    implementation 'com.github.gbksoft:GBKCountryCodePicker:v1.0.0'
+}
+```
+
+Also add `compileOptions` block to use java version 1.8 
+```groovy
+compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+```
 
 Usage
 ---------
