@@ -17,6 +17,7 @@
 			android:layout_height="wrap_content"
 			app:ccpDropDown_keyboardAutoPopup="false"
 			app:ccpDropDown_initialScrollToSelection="true"
+			app:ccpDropDown_searchEditTextTint="#00FF00"
 			app:ccp_areaCodeDetectedCountry="false"
 			app:ccp_autoDetectCountry="true"
 			app:ccp_countryPreference="us,ca,gb,nz"

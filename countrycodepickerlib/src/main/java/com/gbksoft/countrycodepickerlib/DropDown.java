@@ -1,7 +1,9 @@
 package com.gbksoft.countrycodepickerlib;
 
 import android.content.Context;
+import android.content.res.ColorStateList;
 import android.graphics.Color;
+import android.os.Build;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.EditText;
@@ -146,12 +148,12 @@ class DropDown extends PopupWindow {
 
         //editText tint
         // TODO: 7/11/19 Cursor drawable and background drawable selection
-//		if (codePicker.getSearchEditTextTintColor() != 0) {
-//			if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-//				editText_search.setBackgroundTintList(ColorStateList.valueOf(codePicker.getSearchEditTextTintColor()));
-//				setCursorColor(editText_search, codePicker.getSearchEditTextTintColor());
-//			}
-//		}
+		if (properties.getSearchEditTextTintColor() != 0) {
+			if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                searchField.setBackgroundTintList(ColorStateList.valueOf(properties.getSearchEditTextTintColor()));
+//				setCursorColor(searchField, properties.getSearchEditTextTintColor());
+			}
+		}
 
         //add messages to views
         searchField.setHint(context.getString(R.string.search_hint));
